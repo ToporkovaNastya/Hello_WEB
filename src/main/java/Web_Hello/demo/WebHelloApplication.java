@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebHelloApplication {
 
 	public static void main(String[] args) {
+		String s = "Toporkova";
 		SpringApplication.run(WebHelloApplication.class, args);
 	}
 
